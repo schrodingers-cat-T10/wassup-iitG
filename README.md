@@ -32,8 +32,3 @@ This repository contains the code and analysis for a dataset used to predict a b
 - The target variable `bad_flag` is highly imbalanced, with a majority of the samples belonging to class 0.
 - To address this, **SMOTE (Synthetic Minority Over-sampling Technique)** was applied to the training data to balance the classes.
 
-## Model Training and Evaluation
-
-### Logistic Regression
-- **Accuracy:** 78.89%
-- **Classification Report:**
